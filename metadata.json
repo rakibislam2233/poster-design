@@ -1,0 +1,8 @@
+
+{
+  "name": "Scout Poster Studio",
+  "description": "A professional and functional poster generator for scouts to create personalized New Year greeting cards with AI-powered quote suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
